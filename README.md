@@ -69,7 +69,7 @@ This is V002 of the system I am building:
 ## Writing About This
 
 I will and I am  documenting  everything at **[radenix.com](https://radenix.com)**
-
+As well you can check [YouTube](https://www.youtube.com/@radenix-dce)
 Python notes, Linux guides, DevOps builds, honest progress,  all public and all online  searchable.
 
 ---
