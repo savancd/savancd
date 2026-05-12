@@ -57,7 +57,7 @@ This is V002 of the system I am building:
 
 
 | Repo | What It Is | Update |
-|---|---|
+|---|---|---|
 | `homelab-docs` | Full architecture of my systems, networks, decisions | updated |
 | `linux-vps-hardening` | Hardening  a fresh Debian VPS | 12 May 2026 - Not yet updated |
 | `ssh-infrastructure` | SSH auto-start script for VMs and containers (currently only for VMs) | 12 May 2026 - Not yet updated |
