@@ -60,8 +60,8 @@ This is V002 of the system I am building:
 |---|---|---|
 | `homelab-docs` | Full architecture of my systems, networks, decisions | updated |
 | `linux-vps-hardening` | Hardening  a fresh Debian VPS | 12 May 2026 - Not yet updated |
-| `ssh-infrastructure` | SSH auto-start script for VMs and containers (currently only for VMs) | 12 May 2026 - Not yet updated |
-| `coding-exercises` | Daily Python work, CS50, books, real projects and much more | 12 May 2026 - Not yet updated |
+| `ssh-infrastructure` | SSH auto-start script for VMs and containers (currently only for VMs) | updated |
+| `coding-exercises` | Daily Python work, CS50, books, real projects and much more | updated |
 
 ---
 
@@ -74,6 +74,10 @@ This is V002 of the system I am building:
 ---
 
 ## Contact
+
+[!NOTE]
+> I am currently in search of full-time work as Junior SysAdmin or DevOps on entry level roles. Would like to grow with some company that need a person who can help to succeed and to provide to their clients/customers best posible products/services.
+
 
 **Work inquiries:** For meantime you can contact me only on Linkedin			
 **LinkedIn:** [Linkedin profile](https://www.linkedin.com/in/sava84/)			
