@@ -75,7 +75,7 @@ This is V002 of the system I am building:
 
 ## Contact
 
-[!NOTE]
+> [!NOTE]
 > I am currently in search of full-time work as Junior SysAdmin or DevOps on entry level roles. Would like to grow with some company that need a person who can help to succeed and to provide to their clients/customers best posible products/services.
 
 
