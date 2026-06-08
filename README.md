@@ -11,7 +11,7 @@
 > I am Self-taught Linux and Python developer building toward full ***DevOps*** career.
 > Running  a Proxmox home-lab on bare metal with multiple VMs ***(Debian, Ubuntu, Windows and Containers)***, as well as a main workstation I use Debian and it's not just for fun, it is  to understand how production infrastructure actually works.
 
-<p align="center">Currently  building Python tools for real estate + data visualizationa for personal family business and  a self-hosted DevOps stack and I am documenting everything publicly.</p>
+<p>Currently  building Python tools for real estate + data visualizationa for personal family business and  a self-hosted DevOps stack and I am documenting everything publicly.</p>
 
 ---
 
@@ -19,7 +19,7 @@
 
 
 | Category | Details | # |
-|:--------:|:--------:|:--------:|
+|:--------|:--------|:--------|
 | **Proxmox** | *(Windows and Linux, Containers and Render Nodes for Python, Houdini, 3D Production)* | / |
 | **Linux** | *(KVM/QEMU + Incus containers)* |  Debian 12 bare metal  |
 | **Infrastructure** | *(Ansible, Forgejo, Woodpecker CI, K3s)* | still in setup stage for version 2 of the system | 
