@@ -1,4 +1,4 @@
-<h1 aligt="center">RADENIX</h1>
+<h1 align="center">RADENIX</h1>
 
 - Building systems.
 - Mastering skills. 
