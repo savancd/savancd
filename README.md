@@ -1,50 +1,38 @@
-# RADENIX
+<h1 aligt="center">RADENIX</h1>
 
 - Building systems.
 - Mastering skills. 
-- Working from anywhere.
+- Working remotely from anywhere.
 
 ---
 
-## What I Do
+<h2 align="center">What I Do</h2>
 
 > I am Self-taught Linux and Python developer building toward full ***DevOps*** career.
-
 > Running  a Proxmox home-lab on bare metal with multiple VMs ***(Debian, Ubuntu, Windows and Containers)***, as well as a main workstation I use Debian and it's not just for fun, it is  to understand how production infrastructure actually works.
 
-I am currently  building Python tools for real estate + data visualizationa for personal family business and  a self-hosted DevOps stack and I am documenting everything publicly.
+<p align="center">Currently  building Python tools for real estate + data visualizationa for personal family business and  a self-hosted DevOps stack and I am documenting everything publicly.</p>
 
 ---
 
-## Current Stack
+<h2 align="center">Current Stack</h2>
 
-This is V002 of the system I am building:
 
-- **Proxmox** Multiple VMs *(Windows and Linux, Containers and Render Nodes for Python, Houdini,  3D Production)*
-- **Linux:** Debian 12 bare metal *(KVM/QEMU +  Incus containers)*
-- **Infrastructure:** *(Ansible, Forgejo,  Woodpecker CI,  K3s)* 
-	- Currently at Tue. 12 May 2026 this is still in building and learning
-- **Networking:**  *(WireGuard, SSH hardening, Multi-zone isolation, 3 Separate networks with routers + virtual networks)*
-- **Python:**  *(Pandas, Plotly, Folium, automation, scripting)*
-- **Web:**  *(Hugo, SCSS, CI/CD deployment)*
-- **Security:** *(Iisolated VMs, Whonix, hardened SSH)*
+| Category | Details | # |
+|:--------:|:--------:|:--------:|
+| **Proxmox** | *(Windows and Linux, Containers and Render Nodes for Python, Houdini, 3D Production)* | / |
+| **Linux** | *(KVM/QEMU + Incus containers)* |  Debian 12 bare metal  |
+| **Infrastructure** | *(Ansible, Forgejo, Woodpecker CI, K3s)* | still in setup stage for version 2 of the system | 
+| **Networking** | *(WireGuard, SSH hardening, Multi-zone isolation + virtual networks)* | 3 separate networks with routers  |
+| **Python** | *(Pandas, Plotly, Folium, automation, scripting)* | / |
+| **Web** | *(Hugo, SCSS, CI/CD deployment)* | / |
+| **Security** | *(Isolated VMs, Whonix, hardened SSH)* | / |
 
----
-
-## What I Am Building
-
-> Homelab (***A*** work / ***B*** collab / ***C*** security)
-
-- Python real estate data tools and visualizations
-	- This is for personal family business currently built **(later will be offered to other real-estate agents and companies)**
-- Self-hosted infrastructure *(Forgejo, CI/CD, K3s)* **(12 May 2026 - currently building it as well learning(**
-- Hugo sites with automated deployment
-	-  multiple websites shipped with Hugo **(12 May 2026 - only one website is currently Live "radenix.com")**
-- Long term self learninig Python and Linux mastery curriculum
 
 ---
 
-## Learning and will learn more
+
+<h2 align="center">Learning</h2>
 
 - **Python**  *(CS50P, Pyhon books +  real projects)*
 - **DevOps** — *(Ansible automation, Kubernetes)*
@@ -53,19 +41,8 @@ This is V002 of the system I am building:
 
 ---
 
-## Repositories Worth Looking At
 
-
-| Repo | What It Is | Update |
-|---|---|---|
-| `homelab-docs` | Full architecture of my systems, networks, decisions | updated |
-| `linux-vps-hardening` | Hardening  a fresh Debian VPS | 12 May 2026 - Not yet updated |
-| `ssh-infrastructure` | SSH auto-start script for VMs and containers (currently only for VMs) | updated |
-| `coding-exercises` | Daily Python work, CS50, books, real projects and much more | updated |
-
----
-
-## Writing About This
+<h2 align="center">Writing About This</h2>
 
 - I will and I am  documenting  everything at **[radenix.com](https://radenix.com)**	
 - As well you can check [YouTube](https://www.youtube.com/@radenix-dce)	
@@ -73,7 +50,7 @@ This is V002 of the system I am building:
 
 ---
 
-## Contact
+<h2 align="center">Contact</h2>
 
 > [!NOTE]
 > I am currently in search of full-time work as Junior SysAdmin or DevOps on entry level roles. Would like to grow with some company that need a person who can help to succeed and to provide to their clients/customers best posible products/services.
@@ -84,4 +61,4 @@ This is V002 of the system I am building:
 
 ---
 
-*Commits daily. Building in public.*
+<p align="center">**Commits daily. Building in public.**</p>
