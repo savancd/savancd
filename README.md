@@ -8,9 +8,11 @@
 
 <h2 align="center">What I Do</h2>
 
-> I am Self-taught Linux and Python developer building toward working fully with a Python and Linux.
-> Developing and visual simulations using Python on Linux
-> Running  a Proxmox home-lab on bare metal with multiple VMs ***(Debian, Ubuntu, Windows and Containers)***, as well as a main workstation I use Debian and it's not just for fun, it is  to understand how production infrastructure actually works.
+> I am Self-taught Linux and Python developer building toward working fully with a Python and Linux.   
+> Developing visual simulations using Python on Linux   
+> Running  a Proxmox home-lab on bare metal with multiple VMs **(Debian, Ubuntu, Windows and Containers)**, as well as a main workstation I use Debian and it's not just for fun, it is  to understand how production infrastructure actually works.   
+
+
 
 <p>Currently  building Python tools for real estate + data visualizationa for personal family business and  a self-hosted DevOps stack and I am documenting everything publicly.</p>
 
