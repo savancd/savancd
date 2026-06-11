@@ -8,7 +8,8 @@
 
 <h2 align="center">What I Do</h2>
 
-> I am Self-taught Linux and Python developer building toward full ***DevOps*** career.
+> I am Self-taught Linux and Python developer building toward working fully with a Python and Linux.
+> Developing and visual simulations using Python on Linux
 > Running  a Proxmox home-lab on bare metal with multiple VMs ***(Debian, Ubuntu, Windows and Containers)***, as well as a main workstation I use Debian and it's not just for fun, it is  to understand how production infrastructure actually works.
 
 <p>Currently  building Python tools for real estate + data visualizationa for personal family business and  a self-hosted DevOps stack and I am documenting everything publicly.</p>
@@ -53,7 +54,9 @@
 <h2 align="center">Contact</h2>
 
 > [!NOTE]
-> I am currently in search of full-time work as Junior SysAdmin or DevOps on entry level roles. Would like to grow with some company that need a person who can help to succeed and to provide to their clients/customers best posible products/services.
+> I am currently in search of full-time work in IT as Junior Python, Linux Dev * entry level roles*. 
+> Would like to grow with some company that need a person who can help to succeed and to provide to their 
+> clients/customers with best posible products and services.
 
 
 **Work inquiries:** For meantime you can contact me only on Linkedin			
