@@ -9,12 +9,12 @@
 <h2 align="center">What I Do</h2>
 
 > I am Self-taught Linux and Python developer building toward working fully with a Python and Linux.   
-> Developing visual simulations using Python on Linux   
+> Developing visual simulations using Python and using Linux   
 > Running  a Proxmox home-lab on bare metal with multiple VMs **(Debian, Ubuntu, Windows and Containers)**, as well as a main workstation I use Debian and it's not just for fun, it is  to understand how production infrastructure actually works.   
 
 
 
-<p>Currently  building Python tools for real estate + data visualizationa for personal family business and  a self-hosted DevOps stack and I am documenting everything publicly.</p>
+<p>Currently  building Python tools for real estate + data visualizationa for personal family business and  a self-hosted DevOps stack.</p>
 
 ---
 
@@ -31,9 +31,7 @@
 | **Web** | *(Hugo, SCSS, CI/CD deployment)* | / |
 | **Security** | *(Isolated VMs, Whonix, hardened SSH)* | / |
 
-
 ---
-
 
 <h2 align="center">Learning</h2>
 
@@ -44,26 +42,22 @@
 
 ---
 
+<h2 align="center">Where to find me</h2>
 
-<h2 align="center">Writing About This</h2>
-
-- I will and I am  documenting  everything at **[radenix.com](https://radenix.com)**	
-- As well you can check [YouTube](https://www.youtube.com/@radenix-dce)	
-- Python notes, Linux guides, DevOps builds, honest progress all public and all online  searchable.	
+- **[radenix.com](https://radenix.com)**	
+- [YouTube](https://www.youtube.com/@radenix-dce)	
 
 ---
 
 <h2 align="center">Contact</h2>
 
 > [!NOTE]
-> I am currently in search of full-time work in IT as Junior Python, Linux Dev * entry level roles*. 
-> Would like to grow with some company that need a person who can help to succeed and to provide to their 
-> clients/customers with best posible products and services.
-
+> **01 July 2026**
+> I am still currently in search of full-time work in IT as Junior Python, Linux Dev * entry level roles*. 
 
 **Work inquiries:** For meantime you can contact me only on Linkedin			
 **LinkedIn:** [Linkedin profile](https://www.linkedin.com/in/sava84/)			
 
 ---
 
-<p align="center">**Commits daily. Building in public.**</p>
+<p align="center">"Art is not what you see, but what you make others see." -<strong> Edgar Degas</strong></p>
